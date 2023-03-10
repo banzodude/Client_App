@@ -1,7 +1,8 @@
 # Client_App
 manage and store our client’s contacts details in the cloud where we are able to manage and maintain our client list on an address book type of application
 
-Two Database used:
+Two Database used: 
+
 1.ASP.NET Core Identity which created user tables using migration etc . 
  - On the package manager console ,run the following command:
    Update-Database -context ApplicationDbContext
